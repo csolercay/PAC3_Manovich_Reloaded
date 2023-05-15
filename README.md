@@ -52,7 +52,7 @@ A mesura que **Facebook**  va créixer, es van realitzar millores i es van agreg
 - **Programes d'afiliats**: Pots unir-te a programes d'afiliats i promocionar productes d'altres empreses en la teva pàgina de Facebook. Guanyaràs una comissió per cada venda o acció realitzada a través dels teus enllaços d'afiliat.
 
 ## Plantejament
-Manovich ha examinat com les plataformes en línia han alterat la producció i el consum de contingut, així com les interaccions socials i la formació d'identitats digitals. En el seu llibre "El llenguatge dels nous mitjans de comunicació", Manovich argumenta que la lògica de la cultura digital està modelada per la modularitat i la combinació d'elements culturals preexistents. Des d'aquesta perspectiva, podríem suposar que Manovich veuria la hibridació de YouTube i Facebook com una manifestació d'aquesta lògica modular i combinatòria.
+Manovich ha examinat com les plataformes en línia han alterat la producció i el consum de contingut, així com les interaccions socials i la formació d'identitats digitals. En el seu llibre "El llenguatge dels nous mitjans de comunicació", Manovich argumenta que la lògica de la cultura digital està modelada per la modularitat i la combinació d'elements culturals preexistents. Des d'aquesta perspectiva, podríem suposar que *Manovich veuria la hibridació de YouTube i Facebook com una manifestació d'aquesta lògica modular i combinatòria.
 
 YouTube i Facebook són dues plataformes de mitjans socials que han tingut un impacte significatiu en la forma en què consumim i compartim contingut. YouTube se centra principalment en l'allotjament i la distribució de vídeos, mentre que Facebook s'ha convertit en un espai per a compartir una varietat de contingut, inclosos vídeos, fotos, enllaços i comentaris.
 
