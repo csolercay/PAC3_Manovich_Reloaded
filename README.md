@@ -51,6 +51,15 @@ A mesura que **Facebook**  va créixer, es van realitzar millores i es van agreg
 
 - **Programes d'afiliats**: Pots unir-te a programes d'afiliats i promocionar productes d'altres empreses en la teva pàgina de Facebook. Guanyaràs una comissió per cada venda o acció realitzada a través dels teus enllaços d'afiliat.
 
+## Plantejament
+Manovich ha examinat com les plataformes en línia han alterat la producció i el consum de contingut, així com les interaccions socials i la formació d'identitats digitals. En el seu llibre "El llenguatge dels nous mitjans de comunicació", Manovich argumenta que la lògica de la cultura digital està modelada per la modularitat i la combinació d'elements culturals preexistents. Des d'aquesta perspectiva, podríem suposar que Manovich veuria la hibridació de YouTube i Facebook com una manifestació d'aquesta lògica modular i combinatòria.
+
+YouTube i Facebook són dues plataformes de mitjans socials que han tingut un impacte significatiu en la forma en què consumim i compartim contingut. YouTube se centra principalment en l'allotjament i la distribució de vídeos, mentre que Facebook s'ha convertit en un espai per a compartir una varietat de contingut, inclosos vídeos, fotos, enllaços i comentaris.
+
+La hibridació de YouTube i Facebook podria entendre's com la convergència i la integració de característiques i funcionalitats pròpies de totes dues plataformes. Per exemple, podríem imaginar una interfície que permeti als usuaris de Facebook transmetre vídeos en viu com en YouTube, o que els vídeos de YouTube es puguin compartir i comentar directament dins de Facebook sense necessitat d'enllaços externs.
+
+Des de la perspectiva de Manovich, aquesta hibridació seria el resultat de la mescla de diferents elements culturals i tecnològics en una sola plataforma. En lloc de concebre a YouTube i Facebook com a entitats separades i diferents, Manovich probablement destacaria com la seva convergència crea noves possibilitats i formes d'interacció cultural. A més, Manovich també podria explorar com la hibridació afecta la producció i el consum de contingut, així com les formes en què les identitats digitals es construeixen i presenten en aquestes plataformes combinades.
+
 ### Referències i Bibliografia
 - [Muñoz-Justicia, Juan(2014): "Conocimiento Abierto y Tecnología".](http://juan.psicologiasocial.eu/conocimiento-y-tecnologia)
 - [Adell, Ferran. (2014). "Remediación, multimedia e hibridación de los medios".](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/) 
